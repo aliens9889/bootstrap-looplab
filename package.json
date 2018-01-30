@@ -1,0 +1,11 @@
+{
+  "name": "looplabp1",
+  "version": "1.0.0",
+  "description": "Following a Udemy Bootstrap tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alonso Parra",
+  "license": "ISC"
+}
