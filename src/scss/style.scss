@@ -56,3 +56,13 @@ body {
     font-size: $icon-size;
   }
 }
+
+#create-section {
+  .fa {
+    color: $primary-color;
+    background-color: $font-color;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: $icon-size;
+  }
+}
