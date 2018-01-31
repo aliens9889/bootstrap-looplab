@@ -46,3 +46,13 @@ body {
     font-size: $icon-size;
   }
 }
+
+#explore-section {
+  .fa {
+    color: $font-color;
+    background-color: $bg-color;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: $icon-size;
+  }
+}
